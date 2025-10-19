@@ -1,6 +1,6 @@
 # EasyVisa_CRISPDM_Project
 
-**Author:** Swaroop Narayan — MBA (expected Nov 2025); MSc in Analytics (expected Nov 2026)
+**Author:** Swaroop Narayan — MBA in Finance and Analytics; MSc in Analytics
 
 ## Overview
 This project follows the CRISP-DM methodology to predict visa approval outcomes using the EasyVisa dataset. The notebook `Easy_Visa_Assignment_updated.ipynb` contains the full analysis, EDA, model building (including Gradient Boosting), and evaluation.
