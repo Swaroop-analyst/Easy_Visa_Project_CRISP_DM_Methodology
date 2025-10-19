@@ -1,7 +1,7 @@
 # 🧠 EasyVisa — Visa Approval Prediction using Machine Learning
 ### CRISP-DM Based Analytics Project  
 **Author:** Swaroop Narayan  
-**Programs:** MBA (Finance & Analytics, ISBR) | MSc in Analytics (Expected Nov 2026)
+**Programs:** MBA (Finance & Analytics, ISBR – Expected Nov 2025) | MSc in Analytics (Expected Nov 2026)
 
 ---
 
@@ -123,3 +123,27 @@ Outlined in `6_Deployment/deployment_plan.md`:
 2. Install dependencies  
    ```bash
    pip install -r requirements.txt
+   ```
+3. Open the notebook:  
+   ```bash
+   jupyter notebook Easy_Visa_Assignment_updated.ipynb
+   ```
+4. Run all cells to reproduce the workflow and results.
+
+---
+
+## 👤 Author
+
+**Swaroop Narayan**  
+MBA (Finance & Analytics) – ISBR Business School, Bangalore  
+MSc in Analytics – Expected 2026  
+
+LinkedIn: [Your LinkedIn URL here]  
+Email: [Your email address]
+
+---
+
+## 📜 License
+
+This project is released under the MIT License.  
+See `LICENSE` for details.
